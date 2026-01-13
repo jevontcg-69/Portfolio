@@ -45,23 +45,23 @@ export function Contact() {
                         <div>
                             <h3 className="text-xl font-bold mb-6">Contact Information</h3>
                             <div className="space-y-6">
-                                <a href="mailto:contact@jevon.tech" className="flex items-center group">
+                                <a href="mailto:jevontcg@gmail.com" className="flex items-center group">
                                     <div className="w-12 h-12 rounded-lg bg-primary/10 flex items-center justify-center mr-4 group-hover:bg-primary transition-colors">
                                         <Mail className="h-5 w-5 text-primary group-hover:text-primary-foreground" />
                                     </div>
-                                    <span className="text-muted-foreground group-hover:text-foreground transition-colors">contact@jevon.tech</span>
+                                    <span className="text-muted-foreground group-hover:text-foreground transition-colors">jevontcg@gmail.com</span>
                                 </a>
-                                <a href="https://linkedin.com/in/jevon" target="_blank" className="flex items-center group">
+                                <a href="https://www.linkedin.com/in/hizkia-jevon-chandra-79a83525b/" target="_blank" className="flex items-center group">
                                     <div className="w-12 h-12 rounded-lg bg-primary/10 flex items-center justify-center mr-4 group-hover:bg-primary transition-colors">
                                         <Linkedin className="h-5 w-5 text-primary group-hover:text-primary-foreground" />
                                     </div>
-                                    <span className="text-muted-foreground group-hover:text-foreground transition-colors">linkedin.com/in/jevon</span>
+                                    <span className="text-muted-foreground group-hover:text-foreground transition-colors">linkedin.com/in/hizkia-jevon-chandra-79a83525b/</span>
                                 </a>
-                                <a href="https://github.com/jevon" target="_blank" className="flex items-center group">
+                                <a href="https://github.com/jevontcg-69" target="_blank" className="flex items-center group">
                                     <div className="w-12 h-12 rounded-lg bg-primary/10 flex items-center justify-center mr-4 group-hover:bg-primary transition-colors">
                                         <Github className="h-5 w-5 text-primary group-hover:text-primary-foreground" />
                                     </div>
-                                    <span className="text-muted-foreground group-hover:text-foreground transition-colors">github.com/jevon</span>
+                                    <span className="text-muted-foreground group-hover:text-foreground transition-colors">github.com/jevontcg-69</span>
                                 </a>
                             </div>
                         </div>
@@ -69,7 +69,7 @@ export function Contact() {
                         <div className="p-8 rounded-2xl bg-gradient-to-br from-primary/10 to-transparent border border-primary/20">
                             <h4 className="text-lg font-semibold mb-2">Available for roles</h4>
                             <p className="text-sm text-muted-foreground">
-                                Currently seeking opportunities as a Business Analyst, Data Analyst, or Junior Developer.
+                                Currently seeking opportunities as a Business Analyst, Data Analyst, or Software Developer.
                             </p>
                         </div>
                     </motion.div>

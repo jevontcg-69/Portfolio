@@ -38,7 +38,7 @@ export function Navbar() {
                 <div className="flex items-center justify-between h-16">
                     <div className="flex-shrink-0 flex items-center">
                         <Link href="/" className="text-xl font-bold tracking-tighter text-primary">
-                            JP<span className="text-foreground">.tech</span>
+                            Hizkia Jevon Chandra<span className="text-foreground"></span>
                         </Link>
                     </div>
 
